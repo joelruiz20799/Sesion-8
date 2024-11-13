@@ -2,10 +2,10 @@ h1 {
     color:black (42, 165, 93);
     font-size: 30px;
   }
-  p {
+  body p {
     color: rgb(0, 255, 98) (163, 43, 13);
     font-family:'Times New Roman', Times, serif ;
   }
-  img {
+  body img {
     border: 2px solid rgb(2, 255, 78) (0, 0, 0.856);
   }
