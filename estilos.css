@@ -1,11 +1,11 @@
-h1 {
-    color:blue (42, 165, 93);
-    font-size: 30px;
-  }
-p {
-    color: rgb(0, 255, 98) (163, 43, 13);
-    font-family:'Times New Roman', Times, serif ;
+h1{
+  color: rgb(42, 165, 93);
+  font-size: 30px;
+}
+p{
+  color: rgb(163, 43, 13);
+  font-family: 'Times New Roman', Times, serif;
   }
 img {
-    border: 2px solid rgb(2, 255, 78) (0, 0, 0.856);
-  }
+  border: 2px solid rgba(0, 0, 0, 0.856);
+}
