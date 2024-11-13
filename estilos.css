@@ -1,11 +1,11 @@
 h1 {
-    color:black;
+    color:black (42, 165, 93);
     font-size: 30px;
   }
   p {
-    color: blue;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue (163, 43, 13);
+    font-family:'Times New Roman', Times, serif ;
   }
   img {
-    border: 2px solid red;
+    border: 2px solid red (0, 0, 0.856);
   }
